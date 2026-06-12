@@ -21,7 +21,7 @@ export default function Education() {
       institution: 'St. Lawrence High School and Junior College, Nashik',
       status: '2022 / 2024',
       scoreLabel: 'SSC / MHT-CET Score',
-      scoreValue: '94.60% / 96.40 percentile',
+      scoreValue: '96.4% / 96.4 percentile',
       details: 'Completed secondary and higher secondary education in science and mathematics. Secured strong foundational grades in computer programming structures, algebra, and physics.',
       icon: <School size={32} className="text-violet-400" />,
       glowColor: 'from-violet-500 to-indigo-500',

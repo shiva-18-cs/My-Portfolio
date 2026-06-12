@@ -51,7 +51,7 @@ export default function Testimonials() {
         </div>
 
         {/* Stack Deck Carousel */}
-        <div className="relative h-[320px] sm:h-[260px] md:h-[240px] flex items-center justify-center">
+        <div className="relative h-[380px] sm:h-[320px] md:h-[280px] flex items-center justify-center">
           <AnimatePresence mode="wait">
             {testimonials.map((item, idx) => {
               if (idx !== activeIndex) return null;
